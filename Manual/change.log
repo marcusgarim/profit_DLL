@@ -1,0 +1,13 @@
+ProfitDLL v4.0.0.0 (32 e 64 bits)
+
+ - Nova Callback dos Livros:
+   - TOfferBookCallbackV2 e TPriceBookCallbackV2 possuem parâmetros identicos, mas o formato das listas muda
+   - Quantidade do TOfferBookCallbackV2 é Int64
+   - Quantidade do TPriceBookCallbackV2 é Int64; Count do TPriceBookCallbackV2 é Cardinal;
+ - DLL modernizada com os novos protocolos do servidores
+ - Retorno das funções alterado de Signed Byte para Integer
+   - Códigos de erro alterados para refletir a mudança (NL_OK continua como 0)
+ - Novas funções de SetCallback
+  - Agora é possível sobrepor as callbacks da inicialização
+ - GetAllTicker removida
+  - Para requisitar as informações do ativo, usar RequestTickerInfo

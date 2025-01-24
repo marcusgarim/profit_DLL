@@ -40,6 +40,8 @@ ProfitDLL/
 │   ├── Manual - ProfitDLL.pdf
 │   └── change.log
 └── README.md
+````
+
 ## 🚀 Funcionalidades
 
 - **Bibliotecas (.dll)**: Implementações prontas para integração.

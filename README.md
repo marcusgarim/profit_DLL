@@ -83,3 +83,7 @@ Confira o manual na pasta `Manual/`:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar.
+
+## 🔗 Saiba mais sobre
+
+Saiba mais em https://store.nelogica.com.br/data-solution

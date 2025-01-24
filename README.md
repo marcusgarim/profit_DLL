@@ -1,6 +1,6 @@
 # ProfitDLL
 
-ProfitDLL é um conjunto de bibliotecas e exemplos para integração com a biblioteca `ProfitDLL`. Este repositório contém implementações em múltiplas linguagens de programação, como Delphi, C#, C++ e Python, para facilitar o uso das funcionalidades do ProfitDLL.
+Data Sollution é um conjunto de bibliotecas e exemplos para integração com a biblioteca do `ProfitDLL`. Este repositório contém implementações em múltiplas linguagens de programação, como Delphi, C#, C++ e Python, para facilitar o uso das funcionalidades do ProfitDLL. Copyright © 2025 Nelogica. Todos direitos reservados.
 
 ## 📂 Estrutura do Projeto
 
